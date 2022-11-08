@@ -1,5 +1,5 @@
 <p align="center">
-<img width="500" src="https://s3.jagoanstorage.com/aditia-storage/asset/ilustrasi/Creation-process-cuate.png">
+<img width="400" src="https://s3.jagoanstorage.com/aditia-storage/asset/ilustrasi/Creation-process-cuate.png">
 </p>
 
 <div align="center">
@@ -15,3 +15,4 @@
  - Sistem pengamanan laboratorium berbasis nodemcu - Link
  - Aplikasi pendataan lokasi dengan Google Maps API - Link
  - Aplikasi data mining untuk analisa penjualan menggunakan metode apriori - Link
+ - Sistem prediksi banjir menggunakan fuzzy berbasis web - Link
